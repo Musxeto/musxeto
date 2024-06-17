@@ -19,4 +19,4 @@ This is my corner of the internet. I'm Musxeto (he/him), a programmer by day and
   
 YVL 4L! ✌
 
-[![Musxeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=musxetp)](https://github.com/musxeto/github-readme-stats)
+[![Musxeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=musxeto)](https://github.com/musxeto/github-readme-stats)
