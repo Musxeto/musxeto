@@ -1,16 +1,20 @@
-## Hi there 👋
+# **yo!**
 
-<!--
-**Musxeto/musxeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my corner of the internet. I'm Musxeto (he/him), a programmer by day and sleeper by night (aka xetopher, lil mussi w, mus). I'm a CS sophomore at Lahore Garrison University and an aspiring full-stack developer.
 
-Here are some ideas to get you started:
+## What I'm into:
+- Building sick web apps with React.js and Firebase
+- Flexing my Python and C++ skills
+- Conquering Data Structures and Algorithms like a boss (DSA gang wya?)
+- Learning new stuff every day - that's the dev life, baby!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Check out my projects:
+- **Berserk Fit**: An e-commerce platform for gym enthusiasts to get ripped (React.js, Firebase)
+- **ArcadeOS**: A bootable operating system for the OG gamers (Assembly language - y'all know I love it!)
+- **Chikimus**: An anime quote generator for all the weebs out there (React.js, HTML, CSS)
+
+## Wanna see more?
+- Peep my repos:[ [link to my repos]](https://github.com/Musxeto?tab=repositories)
+- Slide into my DMs on LinkedIn: [[link to my LinkedIn profile]](https://www.linkedin.com/in/mustafa-gm/)
+  
+Peace out! ✌
