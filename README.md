@@ -17,4 +17,6 @@ This is my corner of the internet. I'm Musxeto (he/him), a programmer by day and
 - Peep my repos:[ [link to my repos]](https://github.com/Musxeto?tab=repositories)
 - Slide into my DMs on LinkedIn: [[link to my LinkedIn profile]](https://www.linkedin.com/in/mustafa-gm/)
   
-Peace out! ✌
+YVL 4L! ✌
+
+[![Musxeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=musxetp)](https://github.com/musxeto/github-readme-stats)
