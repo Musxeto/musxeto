@@ -1,6 +1,6 @@
 # **yo!**
 
-This is my corner of the internet. I'm Musxeto (he/him), a programmer by day and sleeper by night (aka xetopher, lil mussi w, mus). I'm a CS sophomore at Lahore Garrison University and an aspiring full-stack developer.
+This is my corner of the internet. I'm Musxeto, a programmer by day and sleeper by night (aka xetopher, lil mussi w, mus). I'm a CS sophomore at Lahore Garrison University and an aspiring full-stack developer.
 
 ## What I'm into:
 - Building sick web apps with React.js and Firebase
@@ -19,4 +19,4 @@ This is my corner of the internet. I'm Musxeto (he/him), a programmer by day and
   
 YVL 4L! ✌
 
-[![Musxeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=musxeto)](https://github.com/musxeto/github-readme-stats)
+![Musxeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=musxeto&show_icons=true&theme=radical)
