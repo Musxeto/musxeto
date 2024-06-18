@@ -1,5 +1,15 @@
-Yo! It's Musxeto, a sophomore at Lahore Garrison University and half fried Fullstack Developer aswell. While finals are comin' at me fast (send caffeine, pls), I'm all about building web apps.<br>My Tech Stack is FR 💀 rn(Flask-React)<br>## My Skillset:<br>* I speak fluent JavaScript and React.js is my homie. We've built some awesome web experiences together.<br>* I can also hold my own in Python (built stuff with Flask) and Assembly (even built a bootable OS!).<br>* Got a handle on Firebase, SQL(MS SQL Server, MySQL),  Tailwind CSS – you name it, I can probably wrangle it.<br>-----------<br>Currently diving into the backend world with Node.js, Express.js and MongoDB (MERN stack ftw!).  <br>**Hit me up if:**<br>* You need a coding buddy (especially for React.js or MERN stack projects!).<br>* You wanna geek out about tech, music, or just ...<br>* You have some leftover caffeine (cardamom chai preferably) – finals are brutal! 
-----------
+Yo! It's Musxeto, a sophomore at Lahore Garrison University and half fried Fullstack Developer aswell. While finals are comin' at me fast (send caffeine, pls), I'm all about building web apps.
+My Tech Stack is FR 💀 rn(Flask-React)
+## My Skillset:
+* I speak fluent JavaScript and React.js is my homie. We've built some awesome web experiences together.
+* I can also hold my own in Python (built stuff with Flask) and Assembly (even built a bootable OS!).
+* Got a handle on Firebase, SQL(MS SQL Server, MySQL),  Tailwind CSS – you name it, I can probably wrangle it.
+-----------
+Currently diving into the backend world with Node.js, Express.js and MongoDB (MERN stack ftw!).  
+**Hit me up if:**
+* You need a coding buddy (especially for React.js or MERN stack projects!).
+* You wanna geek out about tech, music, or just ...
+* You have some leftover caffeine (cardamom chai preferably) – finals are brutal! 
 
 
 # 💻 Tech Stack:
