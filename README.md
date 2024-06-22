@@ -1,4 +1,4 @@
-Yo! It's Musxeto, a sophomore at Lahore Garrison University and half fried Fullstack Developer aswell. While finals are comin' at me fast (send caffeine, pls), I'm all about building web apps.
+hey! it's Mustafa, a sophomore at Lahore Garrison University and half fried Fullstack Developer aswell. While finals are comin' at me fast (send caffeine, pls), I'm all about building web apps.
 My Tech Stack is FR 💀 rn(Flask-React)
 ## My Skillset:
 * I speak fluent JavaScript and React.js is my homie. We've built some awesome web experiences together.
