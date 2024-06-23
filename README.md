@@ -3,7 +3,7 @@ My Tech Stack is FR 💀 rn(Flask-React)
 ## My Skillset:
 * I speak fluent JavaScript and React.js is my homie. We've built some awesome webs together.
 * I can also hold my own in Python (built stuff with Flask) and Assembly (even built a bootable OS!).
-* Got a handle on Firebase, SQL(MS SQL Server, MySQL),  Tailwind CSS – you name it, I can probably wrangle it.
+* Got a handle on Firebase, SQL(MS SQL Server, MySQL), C/C++ aswell – .
 -----------
 Currently diving into the backend world with Node.js, Express.js and MongoDB (MERN stack ftw!).  
 **Hit me up if:**
