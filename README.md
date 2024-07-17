@@ -1,7 +1,7 @@
 I'm Mustafa, a junior at Lahore Garrison University and a passionate Fullstack Developer. I'm constantly exploring new technologies and building web apps.
 ## My Skillset:
 * I speak fluent JavaScript and React.js is my homie. We've built some awesome webs together.
-* I can also hold my own in Python (built stuff with Flask) and Assembly (even built a bootable OS!).
+* I can also hold my own in Python (built stuff with Flask).
 * Got a handle on Firebase, SQL(MS SQL Server, MySQL), aswell – .
 -----------
 Currently diving into the backend world with Node.js, Express.js and MongoDB (MERN stack ftw!).  
@@ -18,6 +18,6 @@ Currently diving into the backend world with Node.js, Express.js and MongoDB (ME
 ![](https://github-readme-streak-stats.herokuapp.com/?user=musxeto&theme=dark&hide_border=false)<br/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mustafaxgm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mustafa-gm) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@LilMussiW) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mustafa-gm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mustafaxgm) 
 ---
 [![](https://visitcount.itsvg.in/api?id=musxeto&icon=0&color=0)](https://visitcount.itsvg.in)
