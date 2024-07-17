@@ -1,15 +1,14 @@
-hey! it's Mustafa, a sophomore at Lahore Garrison University and half fried Fullstack Developer aswell. While finals are comin' at me fast (send caffeine, pls), I'm all about building web apps.
-My Tech Stack is FR 💀 rn(Flask-React)
+I'm Mustafa, a junior at Lahore Garrison University and a passionate Fullstack Developer. I'm constantly exploring new technologies and building web apps.
 ## My Skillset:
 * I speak fluent JavaScript and React.js is my homie. We've built some awesome webs together.
 * I can also hold my own in Python (built stuff with Flask) and Assembly (even built a bootable OS!).
-* Got a handle on Firebase, SQL(MS SQL Server, MySQL), C/C++ aswell – .
+* Got a handle on Firebase, SQL(MS SQL Server, MySQL), aswell – .
 -----------
 Currently diving into the backend world with Node.js, Express.js and MongoDB (MERN stack ftw!).  
 **Hit me up if:**
 * You need a coding buddy (especially for React.js or MERN stack projects!).
 * You wanna geek out about tech, music, or just ...
-* You have some leftover caffeine (cardamom chai preferably) – finals are brutal! 
+* You have some leftover caffeine ( or cardamom chai preferably)
 
 
 # 💻 Tech Stack:
