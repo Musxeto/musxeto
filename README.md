@@ -1,4 +1,4 @@
-I'm Mustafa, a junior at Lahore Garrison University and a passionate Fullstack Developer. I'm constantly exploring new technologies and building web apps.
+I'm Mustafa, a CS Student at Lahore Garrison University and a passionate Fullstack Developer. I'm constantly exploring new technologies and building web apps.
 ## My Skillset:
 * I speak fluent JavaScript and React.js is my homie. We've built some awesome webs together.
 * I can also hold my own in Python (built stuff with Flask).
