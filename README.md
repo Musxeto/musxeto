@@ -1,13 +1,11 @@
 **i'm mustafa, a cs student at lahore garrison university and a passionate fullstack dev.**
-
+** currently an INTERN AT GCS PVT LTD **
 i'm always vibing with new tech and building cool web apps.
 
 **skills:**
 
-* javascript and react are my jam. we've made some sick stuff together.
-* i can also handle python (flask and all that)
-* got a grip on firebase and sql (mssql, mysql) too
-* currently diving into the backend world with node.js, express.js, and mongodb (mern stack ftw!)
+* I breathe javascript and react;
+* i can also handle python got a grip on firebase and sql (mssql, mysql) too
 
 **hit me up if:**
 
