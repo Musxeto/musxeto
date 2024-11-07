@@ -1,6 +1,4 @@
-**i'm mustafa, a cs student at lahore garrison university and a passionate fullstack dev.**
- currently an INTERN AT SALVO PVT LTD **
-i'm always vibing with new tech and building cool web apps.
+**i'm mustafa, a cs junior at lahore garrison university and a passionate fullstack dev.**
 
 **skills:**
 
