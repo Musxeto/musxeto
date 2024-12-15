@@ -1,15 +1,5 @@
 **i'm mustafa, a cs junior at lahore garrison university and a passionate fullstack dev.**
-
-**skills:**
-
-* I breathe javascript and react;
-* i can also handle python got a grip on firebase and sql (mssql, mysql) too
-
-**hit me up if:**
-
-* you need a coding buddy (react or mern projects are my fav)
-* you wanna nerd out about music, books and stuff...
-* you have extra coffee (or cardamom chai, preferably)
+*hit me up if: you have extra coffee or cardamom chai, preferably*
 
 
 # 💻 Tech Stack:
