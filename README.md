@@ -1,4 +1,4 @@
-can you add an arrow in it that on clicked open all the stats and stuff un less no;
+
 **i'm mustafa, a cs junior at lahore garrison university and a passionate fullstack dev.**
 *hit me up if: you have extra coffee or cardamom chai, preferably*
 
