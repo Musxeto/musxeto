@@ -7,7 +7,7 @@ App Dev Intern @ Chelan Tech  <br><br>
 *hit me up if: you have extra coffee or cardamom chai, preferably*
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=musxeto&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=musxeto&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=musxeto&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
