@@ -1,9 +1,9 @@
 i build stuff that solves problems, sometimes for clients, sometimes for fun, sometimes just coz i was bored at 3am.<br><br>fullstack dev | learning ML/DL | unity sometimes | rapper?<br><br>
-currently CS Junior @ Lahore Garrison University  
+currently CS senior @ Lahore Garrison University  
 
-Full Stack Intern @ RMA(Smart Computings)
+junior backend developer @ Smart Computings
 
-App Dev Intern @ Chelan Tech  <br><br>
+react native intern @ Chelan Tech  <br><br>
 *hit me up if: you have extra coffee or cardamom chai, preferably*
 
 # 📊 GitHub Stats:
