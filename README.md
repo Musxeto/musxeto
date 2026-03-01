@@ -3,7 +3,7 @@
 i build stuff that solves problems, sometimes for clients, sometimes for fun, sometimes just coz i was bored at 3am.<br><br>fullstack dev | learning ML/DL | unity sometimes | rapper?<br><br>
 currently CS senior @ Lahore Garrison University  
 
-junior backend developer @ Smart Computings
+associate software engineer @ Smart Computings
 
 react native intern @ Chelan Tech  <br><br>
 *hit me up if: you have extra coffee or cardamom chai, preferably*
