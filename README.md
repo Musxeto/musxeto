@@ -1,11 +1,10 @@
 ## My Portfolio: [![Click Here]](https://musxeto.vercel.app) 
 
-i build stuff that solves problems, sometimes for clients, sometimes for fun, sometimes just coz i was bored at 3am.<br><br>fullstack dev | learning ML/DL | unity sometimes | rapper?<br><br>
+i build stuff that solves problems, sometimes for clients, sometimes for fun, sometimes just coz i was bored at 3am.<br><br>fullstack dev | learning ML/DL | unity sometimes <br><br>
 currently CS senior @ Lahore Garrison University  
 
 associate software engineer @ Smart Computings
-
-react native intern @ Chelan Tech  <br><br>
+ <br><br>
 *hit me up if: you have extra coffee or cardamom chai, preferably*
 
 # 📊 GitHub Stats:
